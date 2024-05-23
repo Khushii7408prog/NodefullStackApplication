@@ -12,5 +12,8 @@
     "khushboo"
   ],
   "author": "Khushboo Bharti",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
