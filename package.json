@@ -1,0 +1,16 @@
+{
+  "name": "nodeapplication",
+  "version": "1.0.0",
+  "description": "a backend in at khushboo bharti -SelfParctice  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "backend",
+    "khushboo"
+  ],
+  "author": "Khushboo Bharti",
+  "license": "ISC"
+}
