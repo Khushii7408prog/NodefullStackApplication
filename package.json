@@ -2,9 +2,11 @@
   "name": "nodeapplication",
   "version": "1.0.0",
   "description": "a backend in at khushboo bharti -SelfParctice  ",
+  "type": "module",
   "main": "index.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "JavaScript",
@@ -12,9 +14,5 @@
     "khushboo"
   ],
   "author": "Khushboo Bharti",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.0",
-    "prettier": "^3.3.1"
-  }
+  "license": "ISC"
 }
